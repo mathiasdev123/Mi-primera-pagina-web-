@@ -1,0 +1,54 @@
+p{
+    color: rgb(255, 0, 0);
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-style: italic;
+    text-align: start;
+    line-height: 1.1;
+    letter-spacing: 2px;
+    text-transform: capitalize;
+    text-shadow: 0px 0px 5px rgb(0, 0, 0);
+}
+
+li{
+    color: rgb(252, 75, 8);
+}
+
+.desordenada{
+    color: rgb(0, 255, 0);
+}
+
+#Segundo{
+    color: rgb(174, 145, 253);
+}
+
+#EvitarCSSPeeper{
+    width: 200px;
+    height: 200px;
+    background: rgb(255, 192, 203);
+    border: 5px solid rgb(255, 0, 255);
+    border-radius: 15px;
+    padding: 50px;
+    box-sizing: border-box;
+    box-shadow: 5px -5px 30px rgb(0, 0, 0);
+}
+
+form{
+    background: rgb(0, 0, 255);
+    padding: 10px;
+    margin: 15px;
+    box-sizing: border-box;
+}
+
+h1{
+    color: rgb(255, 0, 0)
+}
+
+#Adaptador{
+    width: 75%;
+    height: 100%;
+}
+
+body{
+    background: linear-gradient(rgb(255, 248, 231), rgb(0, 0, 0));
+}
